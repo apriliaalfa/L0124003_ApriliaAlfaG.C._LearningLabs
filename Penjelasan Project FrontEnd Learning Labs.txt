@@ -1,0 +1,18 @@
+Website yang telah saya buat ialah website yang menjelaskan mengenai Makanan Nusantara. Ada juga informasi tambahan didalam website yang berisi tentang Minuman Tradisinal atau Minuman Khas.
+
+1. File index.html (HOMEPAGE)
+	= Pada file ini kita membuat halaman awal atau beranda yang 	menampilkan sambutan dan navigasi ke halaman lainnya. disini 	menjelaskan ada 10 macam jenis makanan nusantara dan ada tambahan 	informasi mengenai 5 jenis minuman khas Indonesia.
+
+2. File content.html\
+	= Pada halaman konten ini menampilkan informasi lebih lanjut mengenai 	penjelasan 10 makanan nusantara dan 5 minuman khas Indonesia. disini 	juga terdapat foto-foto makanan khas dan minuman khas. 
+
+3. File feedback.html
+	= Pada halaman ini menampilkan permintaan pesan-pesan atau formular 	untuk menerima umpan dari pembaca website ini. pembaca akan 	memberikan nama, email juga isi pesan atau pendapat yang akan 	dikirim untuk pembuat website.
+
+4. File Submit_feedback.php
+	= File ini akan memproses data formulir yang dikirim oleh pengguna 	dan memvalidasi input sebelum mengarahkan ke halaman thankyou.php
+
+5. File thankyou.php
+	= Halaman ini akan menampilkan ucapan terima kasih setelah umpan 	balik berhasil dikirim.
+6. File styles.css
+	= Untuk mengedit tampilan semua halaman website.

@@ -1,0 +1,45 @@
+/* Body dengan latar belakang warna pastel light gray */
+body {
+    background-color: #f8f9fa;
+}
+
+/* Header dengan latar belakang pastel blue */
+.bg-primary {
+    background-color: #a2c2e8;  /* pastel blue */
+}
+
+/* Navbar dengan latar belakang pastel pink */
+.bg-light {
+    background-color: #f3e5f5;  /* pastel pink */
+}
+
+/* Footer dengan latar belakang pastel gray */
+.bg-dark {
+    background-color: #d6d6d6;  /* pastel gray */
+}
+
+/* Tombol dengan warna pastel yellow */
+.btn-primary {
+    background-color: #f4a300;  /* pastel yellow */
+}
+
+/* Gaya untuk header dan footer teks */
+h1, h6 {
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+}
+
+/* Menambahkan margin-top pada elemen aside */
+aside {
+    margin-top: 20px;
+}
+
+/* Mengatur jarak antara elemen ul dalam aside */
+aside ul {
+    padding-left: 20px;
+}
+
+/* Menambahkan sedikit padding untuk bagian main dan aside */
+main, aside {
+    padding: 20px;
+}
